@@ -1,0 +1,19 @@
+#Tue Jan 30 14:39:18 KST 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/14
+base.4=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/16
+base.3=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/11
+base.2=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/13
+base.1=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/12
+base.0=/home/alchera/Develop/VuforiaSamples-7-0-47/app/build/intermediates/transforms/dexMerger/debug/15
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
